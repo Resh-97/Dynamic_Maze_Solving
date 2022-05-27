@@ -1,0 +1,36 @@
+INFO 2022-05-27 18:18:55,481 -  Score 1.0, Total Steps 1,
+ 		 Counters: Path Len 2 : Stayed 0 : Walls 0 : Visited 0, 
+ 		 Actor path:  [(1, 1), (1, 2)] 
+INFO 2022-05-27 18:18:55,597 -  Score 2.0, Total Steps 2,
+ 		 Counters: Path Len 3 : Stayed 0 : Walls 0 : Visited 0, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3)] 
+INFO 2022-05-27 18:18:55,705 -  Score 3.0, Total Steps 3,
+ 		 Counters: Path Len 4 : Stayed 0 : Walls 0 : Visited 0, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4)] 
+INFO 2022-05-27 18:18:55,818 -  Score 4.0, Total Steps 4,
+ 		 Counters: Path Len 5 : Stayed 0 : Walls 0 : Visited 0, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5)] 
+INFO 2022-05-27 18:18:55,915 -  Score 5.0, Total Steps 5,
+ 		 Counters: Path Len 6 : Stayed 0 : Walls 0 : Visited 0, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5)] 
+INFO 2022-05-27 18:18:56,014 -  Score 6.0, Total Steps 6,
+ 		 Counters: Path Len 7 : Stayed 0 : Walls 0 : Visited 0, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 5)] 
+INFO 2022-05-27 18:18:56,111 -  Score 7.0, Total Steps 7,
+ 		 Counters: Path Len 8 : Stayed 0 : Walls 0 : Visited 0, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 5), (4, 5)] 
+INFO 2022-05-27 18:18:56,209 -  Score 8.0, Total Steps 8,
+ 		 Counters: Path Len 9 : Stayed 0 : Walls 0 : Visited 0, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 5), (4, 5), (5, 5)] 
+INFO 2022-05-27 18:18:56,306 -  Score 8.8, Total Steps 9,
+ 		 Counters: Path Len 10 : Stayed 0 : Walls 0 : Visited 0, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 5), (4, 5), (5, 5), (5, 4)] 
+INFO 2022-05-27 18:18:56,409 -  Score 9.680000000000001, Total Steps 10,
+ 		 Counters: Path Len 11 : Stayed 0 : Walls 0 : Visited 0, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 5), (4, 5), (5, 5), (5, 4), (5, 3)] 
+INFO 2022-05-27 18:18:56,503 -  Score 10.680000000000001, Total Steps 11,
+ 		 Counters: Path Len 12 : Stayed 0 : Walls 0 : Visited 0, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 5), (4, 5), (5, 5), (5, 4), (5, 3), (6, 3)] 
+INFO 2022-05-27 18:18:56,566 -  Score 10010.68, Total Steps 12,
+ 		 Counters: Path Len 12 : Stayed 0 : Walls 0 : Visited 0, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 5), (4, 5), (5, 5), (5, 4), (5, 3), (6, 3)] 

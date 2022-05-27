@@ -1,0 +1,8 @@
+numpy~=1.22.3
+torchvision~=0.12.0
+pygame~=2.1.2
+matplotlib~=3.5.1
+pillow~=9.0.1
+argparse~=1.4.0
+gym~=0.23.1
+setuptools~=58.0.4

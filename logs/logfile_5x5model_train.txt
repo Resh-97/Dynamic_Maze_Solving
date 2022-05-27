@@ -1,0 +1,300 @@
+INFO 2022-05-27 17:32:02,268 - Ep 0, Total steps 5, loss None, score 0.8499999999999999, epsilon 0.795, beta 0.41000000000000003,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1), (3, 1)] 
+INFO 2022-05-27 17:32:02,670 - Ep 1, Total steps 4, loss None, score -0.10999999999999999, epsilon 0.79, beta 0.42000000000000004,
+ 		 Counters: Path len 2 : Stayed 1 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2)] 
+INFO 2022-05-27 17:32:03,157 - Ep 2, Total steps 5, loss None, score 0.7999999999999998, epsilon 0.785, beta 0.43000000000000005,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1), (3, 1)] 
+INFO 2022-05-27 17:32:03,376 - Ep 3, Total steps 2, loss None, score -1.01, epsilon 0.78, beta 0.44000000000000006,
+ 		 Counters: Path len 1 : Stayed 1 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:03,759 - Ep 4, Total steps 4, loss None, score -0.10999999999999999, epsilon 0.775, beta 0.45000000000000007,
+ 		 Counters: Path len 2 : Stayed 1 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2)] 
+INFO 2022-05-27 17:32:04,253 - Ep 5, Total steps 5, loss None, score 0.7999999999999998, epsilon 0.77, beta 0.4600000000000001,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 2, 
+ 		 Actor path:  [(1, 1), (2, 1), (3, 1)] 
+INFO 2022-05-27 17:32:04,647 - Ep 6, Total steps 4, loss None, score -0.10999999999999999, epsilon 0.765, beta 0.4700000000000001,
+ 		 Counters: Path len 2 : Stayed 1 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2)] 
+INFO 2022-05-27 17:32:04,879 - Ep 7, Total steps 2, loss None, score -1.1, epsilon 0.76, beta 0.4800000000000001,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:05,105 - Ep 8, Total steps 2, loss None, score -1.1, epsilon 0.755, beta 0.4900000000000001,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:05,632 - Ep 9, Total steps 5, loss None, score 0.7999999999999998, epsilon 0.75, beta 0.5000000000000001,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 2, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3)] 
+INFO 2022-05-27 17:32:05,846 - Ep 10, Total steps 2, loss None, score -1.1, epsilon 0.745, beta 0.5100000000000001,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:06,081 - Ep 11, Total steps 2, loss None, score -1.01, epsilon 0.74, beta 0.5200000000000001,
+ 		 Counters: Path len 1 : Stayed 1 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:06,618 - Ep 12, Total steps 5, loss None, score 0.7999999999999998, epsilon 0.735, beta 0.5300000000000001,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1), (3, 1)] 
+INFO 2022-05-27 17:32:06,862 - Ep 13, Total steps 2, loss None, score -1.1, epsilon 0.73, beta 0.5400000000000001,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:07,100 - Ep 14, Total steps 2, loss None, score -1.01, epsilon 0.725, beta 0.5500000000000002,
+ 		 Counters: Path len 1 : Stayed 1 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:07,338 - Ep 15, Total steps 2, loss None, score -1.1, epsilon 0.72, beta 0.5600000000000002,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:07,763 - Ep 16, Total steps 4, loss None, score -0.10999999999999999, epsilon 0.715, beta 0.5700000000000002,
+ 		 Counters: Path len 2 : Stayed 1 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1)] 
+INFO 2022-05-27 17:32:08,214 - Ep 17, Total steps 4, loss None, score -0.15000000000000002, epsilon 0.71, beta 0.5800000000000002,
+ 		 Counters: Path len 2 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1)] 
+INFO 2022-05-27 17:32:08,439 - Ep 18, Total steps 2, loss None, score -1.01, epsilon 0.705, beta 0.5900000000000002,
+ 		 Counters: Path len 1 : Stayed 1 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:09,049 - Ep 19, Total steps 4, loss 1.4891375599290768e-07, score -0.06000000000000005, epsilon 0.7, beta 0.6000000000000002,
+ 		 Counters: Path len 2 : Stayed 1 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1)] 
+INFO 2022-05-27 17:32:09,694 - Ep 20, Total steps 5, loss 0.0003826195024885237, score 0.7999999999999998, epsilon 0.695, beta 0.6100000000000002,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1), (3, 1)] 
+INFO 2022-05-27 17:32:09,977 - Ep 21, Total steps 2, loss 0.0062356023117899895, score -1.01, epsilon 0.69, beta 0.6200000000000002,
+ 		 Counters: Path len 1 : Stayed 1 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:10,265 - Ep 22, Total steps 2, loss 0.09562869369983673, score -1.01, epsilon 0.6849999999999999, beta 0.6300000000000002,
+ 		 Counters: Path len 1 : Stayed 1 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:10,546 - Ep 23, Total steps 2, loss 0.3959956765174866, score -1.1, epsilon 0.6799999999999999, beta 0.6400000000000002,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:11,302 - Ep 24, Total steps 5, loss 0.4991062581539154, score 0.7999999999999998, epsilon 0.6749999999999999, beta 0.6500000000000002,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 2, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3)] 
+INFO 2022-05-27 17:32:12,188 - Ep 25, Total steps 7, loss 0.7948443293571472, score 2.89, epsilon 0.6699999999999999, beta 0.6600000000000003,
+ 		 Counters: Path len 5 : Stayed 1 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5)] 
+INFO 2022-05-27 17:32:13,406 - Ep 26, Total steps 9, loss 0.8974414467811584, score 3.790000000000001, epsilon 0.6649999999999999, beta 0.6700000000000003,
+ 		 Counters: Path len 6 : Stayed 1 : Walls 2 : Visited 2, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5)] 
+INFO 2022-05-27 17:32:13,764 - Ep 27, Total steps 2, loss 0.47900742292404175, score -1.1, epsilon 0.6599999999999999, beta 0.6800000000000003,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:14,041 - Ep 28, Total steps 2, loss 0.36831945180892944, score -1.01, epsilon 0.6549999999999999, beta 0.6900000000000003,
+ 		 Counters: Path len 1 : Stayed 1 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:14,837 - Ep 29, Total steps 6, loss 0.632317841053009, score 0.8799999999999999, epsilon 0.6499999999999999, beta 0.7000000000000003,
+ 		 Counters: Path len 3 : Stayed 2 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1), (3, 1)] 
+INFO 2022-05-27 17:32:15,139 - Ep 30, Total steps 2, loss 0.3080425262451172, score -1.1, epsilon 0.6449999999999999, beta 0.7100000000000003,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:15,444 - Ep 31, Total steps 2, loss 0.37019333243370056, score -1.01, epsilon 0.6399999999999999, beta 0.7200000000000003,
+ 		 Counters: Path len 1 : Stayed 1 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:16,183 - Ep 32, Total steps 5, loss 0.38037240505218506, score 0.7999999999999998, epsilon 0.6349999999999999, beta 0.7300000000000003,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 2, 
+ 		 Actor path:  [(1, 1), (2, 1), (3, 1)] 
+INFO 2022-05-27 17:32:16,945 - Ep 33, Total steps 6, loss 0.5065314769744873, score 1.7999999999999998, epsilon 0.6299999999999999, beta 0.7400000000000003,
+ 		 Counters: Path len 4 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4)] 
+INFO 2022-05-27 17:32:18,065 - Ep 34, Total steps 9, loss 0.6382770538330078, score 3.75, epsilon 0.6249999999999999, beta 0.7500000000000003,
+ 		 Counters: Path len 6 : Stayed 0 : Walls 2 : Visited 2, 
+ 		 Actor path:  [(1, 1), (2, 1), (1, 2), (1, 3), (1, 4), (1, 5)] 
+INFO 2022-05-27 17:32:19,011 - Ep 35, Total steps 7, loss 0.40666329860687256, score 2.8, epsilon 0.6199999999999999, beta 0.7600000000000003,
+ 		 Counters: Path len 5 : Stayed 0 : Walls 2 : Visited 2, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5)] 
+INFO 2022-05-27 17:32:19,956 - Ep 36, Total steps 7, loss 0.5554954409599304, score 2.8, epsilon 0.6149999999999999, beta 0.7700000000000004,
+ 		 Counters: Path len 5 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5)] 
+INFO 2022-05-27 17:32:20,850 - Ep 37, Total steps 7, loss 0.6925445795059204, score 2.8, epsilon 0.6099999999999999, beta 0.7800000000000004,
+ 		 Counters: Path len 5 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5)] 
+INFO 2022-05-27 17:32:21,124 - Ep 38, Total steps 2, loss 0.8037272691726685, score -1.01, epsilon 0.6049999999999999, beta 0.7900000000000004,
+ 		 Counters: Path len 1 : Stayed 1 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:21,635 - Ep 39, Total steps 4, loss 0.7436515092849731, score -0.10999999999999999, epsilon 0.5999999999999999, beta 0.8000000000000004,
+ 		 Counters: Path len 2 : Stayed 1 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2)] 
+INFO 2022-05-27 17:32:22,297 - Ep 40, Total steps 5, loss 0.45601212978363037, score 0.7999999999999998, epsilon 0.5949999999999999, beta 0.8100000000000004,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1), (3, 1)] 
+INFO 2022-05-27 17:32:23,337 - Ep 41, Total steps 4, loss 0.5446975231170654, score -0.10000000000000009, epsilon 0.5899999999999999, beta 0.8200000000000004,
+ 		 Counters: Path len 2 : Stayed 0 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1)] 
+INFO 2022-05-27 17:32:23,871 - Ep 42, Total steps 4, loss 0.5044941306114197, score -0.19999999999999996, epsilon 0.5849999999999999, beta 0.8300000000000004,
+ 		 Counters: Path len 2 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1)] 
+INFO 2022-05-27 17:32:24,509 - Ep 43, Total steps 5, loss 0.41544461250305176, score 0.7999999999999998, epsilon 0.5799999999999998, beta 0.8400000000000004,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1), (3, 1)] 
+INFO 2022-05-27 17:32:25,288 - Ep 44, Total steps 6, loss 0.5910493731498718, score 0.8399999999999999, epsilon 0.5749999999999998, beta 0.8500000000000004,
+ 		 Counters: Path len 3 : Stayed 1 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3)] 
+INFO 2022-05-27 17:32:25,579 - Ep 45, Total steps 2, loss 0.48157739639282227, score -1.1, epsilon 0.5699999999999998, beta 0.8600000000000004,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:26,134 - Ep 46, Total steps 4, loss 0.6876717805862427, score -0.10000000000000009, epsilon 0.5649999999999998, beta 0.8700000000000004,
+ 		 Counters: Path len 2 : Stayed 0 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1)] 
+INFO 2022-05-27 17:32:26,673 - Ep 47, Total steps 4, loss 0.4622437655925751, score -0.10000000000000009, epsilon 0.5599999999999998, beta 0.8800000000000004,
+ 		 Counters: Path len 2 : Stayed 0 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1)] 
+INFO 2022-05-27 17:32:27,632 - Ep 48, Total steps 7, loss 1.0222978591918945, score 2.8, epsilon 0.5549999999999998, beta 0.8900000000000005,
+ 		 Counters: Path len 5 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5)] 
+INFO 2022-05-27 17:32:27,921 - Ep 49, Total steps 2, loss 0.5145715475082397, score -1.1, epsilon 0.5499999999999998, beta 0.9000000000000005,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:28,215 - Ep 50, Total steps 2, loss 0.5233523845672607, score -1.1, epsilon 0.5449999999999998, beta 0.9100000000000005,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:28,991 - Ep 51, Total steps 6, loss 0.7117230296134949, score 0.7499999999999998, epsilon 0.5399999999999998, beta 0.9200000000000005,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3)] 
+INFO 2022-05-27 17:32:29,292 - Ep 52, Total steps 2, loss 0.4910441040992737, score -1.1, epsilon 0.5349999999999998, beta 0.9300000000000005,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:30,092 - Ep 53, Total steps 4, loss 1.006962537765503, score -0.10000000000000009, epsilon 0.5299999999999998, beta 0.9400000000000005,
+ 		 Counters: Path len 2 : Stayed 0 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1)] 
+INFO 2022-05-27 17:32:31,081 - Ep 54, Total steps 7, loss 0.4952053427696228, score 1.8900000000000006, epsilon 0.5249999999999998, beta 0.9500000000000005,
+ 		 Counters: Path len 4 : Stayed 1 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4)] 
+INFO 2022-05-27 17:32:31,634 - Ep 55, Total steps 4, loss 0.6096811294555664, score -0.19999999999999996, epsilon 0.5199999999999998, beta 0.9600000000000005,
+ 		 Counters: Path len 2 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2)] 
+INFO 2022-05-27 17:32:32,696 - Ep 56, Total steps 8, loss 0.46173322200775146, score 2.8900000000000006, epsilon 0.5149999999999998, beta 0.9700000000000005,
+ 		 Counters: Path len 5 : Stayed 1 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5)] 
+INFO 2022-05-27 17:32:33,357 - Ep 57, Total steps 5, loss 0.7028429508209229, score 0.7999999999999998, epsilon 0.5099999999999998, beta 0.9800000000000005,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3)] 
+INFO 2022-05-27 17:32:33,659 - Ep 58, Total steps 2, loss 1.010176658630371, score -1.1, epsilon 0.5049999999999998, beta 0.9900000000000005,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:33,955 - Ep 59, Total steps 2, loss 0.7349532246589661, score -1.1, epsilon 0.4999999999999998, beta 1.0000000000000004,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:34,245 - Ep 60, Total steps 2, loss 0.8611000776290894, score -1.1, epsilon 0.4949999999999998, beta 1,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:35,069 - Ep 61, Total steps 2, loss 0.910703182220459, score -1.1, epsilon 0.48999999999999977, beta 1,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:35,575 - Ep 62, Total steps 4, loss 0.5776516199111938, score -0.19999999999999996, epsilon 0.48499999999999976, beta 1,
+ 		 Counters: Path len 2 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1)] 
+INFO 2022-05-27 17:32:36,099 - Ep 63, Total steps 4, loss 1.3167316913604736, score -0.19999999999999996, epsilon 0.47999999999999976, beta 1,
+ 		 Counters: Path len 2 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1)] 
+INFO 2022-05-27 17:32:37,005 - Ep 64, Total steps 7, loss 0.7198384404182434, score 2.8, epsilon 0.47499999999999976, beta 1,
+ 		 Counters: Path len 5 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5)] 
+INFO 2022-05-27 17:32:37,829 - Ep 65, Total steps 6, loss 1.03406822681427, score 1.7999999999999998, epsilon 0.46999999999999975, beta 1,
+ 		 Counters: Path len 4 : Stayed 0 : Walls 2 : Visited 2, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4)] 
+INFO 2022-05-27 17:32:38,756 - Ep 66, Total steps 7, loss 0.7116340398788452, score 2.8, epsilon 0.46499999999999975, beta 1,
+ 		 Counters: Path len 5 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5)] 
+INFO 2022-05-27 17:32:39,397 - Ep 67, Total steps 5, loss 0.4874034821987152, score 0.7999999999999998, epsilon 0.45999999999999974, beta 1,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 2, 
+ 		 Actor path:  [(1, 1), (2, 1), (3, 1)] 
+INFO 2022-05-27 17:32:39,926 - Ep 68, Total steps 4, loss 0.46261531114578247, score -0.020000000000000018, epsilon 0.45499999999999974, beta 1,
+ 		 Counters: Path len 2 : Stayed 2 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2)] 
+INFO 2022-05-27 17:32:41,099 - Ep 69, Total steps 9, loss 0.5207539796829224, score 3.750000000000001, epsilon 0.44999999999999973, beta 1,
+ 		 Counters: Path len 6 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5)] 
+INFO 2022-05-27 17:32:42,142 - Ep 70, Total steps 8, loss 0.8671513795852661, score 2.8800000000000003, epsilon 0.44499999999999973, beta 1,
+ 		 Counters: Path len 5 : Stayed 2 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5)] 
+INFO 2022-05-27 17:32:42,713 - Ep 71, Total steps 4, loss 0.8214071989059448, score -0.10000000000000009, epsilon 0.4399999999999997, beta 1,
+ 		 Counters: Path len 2 : Stayed 0 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2)] 
+INFO 2022-05-27 17:32:43,994 - Ep 72, Total steps 10, loss 0.9129714965820312, score 4.750000000000001, epsilon 0.4349999999999997, beta 1,
+ 		 Counters: Path len 7 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 5)] 
+INFO 2022-05-27 17:32:44,762 - Ep 73, Total steps 6, loss 0.7351672649383545, score 1.7999999999999998, epsilon 0.4299999999999997, beta 1,
+ 		 Counters: Path len 4 : Stayed 0 : Walls 2 : Visited 2, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4)] 
+INFO 2022-05-27 17:32:45,412 - Ep 74, Total steps 5, loss 0.7241246700286865, score 0.7999999999999998, epsilon 0.4249999999999997, beta 1,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1), (3, 1)] 
+INFO 2022-05-27 17:32:45,696 - Ep 75, Total steps 2, loss 0.9311550855636597, score -1.1, epsilon 0.4199999999999997, beta 1,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:46,373 - Ep 76, Total steps 5, loss 0.8459402322769165, score 0.8999999999999999, epsilon 0.4149999999999997, beta 1,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3)] 
+INFO 2022-05-27 17:32:47,041 - Ep 77, Total steps 5, loss 0.8040597438812256, score 0.8899999999999999, epsilon 0.4099999999999997, beta 1,
+ 		 Counters: Path len 3 : Stayed 1 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3)] 
+INFO 2022-05-27 17:32:47,554 - Ep 78, Total steps 4, loss 1.1285195350646973, score -0.10999999999999999, epsilon 0.4049999999999997, beta 1,
+ 		 Counters: Path len 2 : Stayed 1 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2)] 
+INFO 2022-05-27 17:32:48,198 - Ep 79, Total steps 5, loss 0.7381548881530762, score 0.7999999999999998, epsilon 0.3999999999999997, beta 1,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 2, 
+ 		 Actor path:  [(1, 1), (2, 1), (3, 1)] 
+INFO 2022-05-27 17:32:49,451 - Ep 80, Total steps 10, loss 1.0043915510177612, score 4.880000000000001, epsilon 0.3949999999999997, beta 1,
+ 		 Counters: Path len 7 : Stayed 2 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 5)] 
+INFO 2022-05-27 17:32:50,279 - Ep 81, Total steps 2, loss 0.9602389335632324, score -1.1, epsilon 0.3899999999999997, beta 1,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:51,326 - Ep 82, Total steps 8, loss 0.6197885274887085, score 2.79, epsilon 0.3849999999999997, beta 1,
+ 		 Counters: Path len 5 : Stayed 1 : Walls 2 : Visited 2, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5)] 
+INFO 2022-05-27 17:32:51,631 - Ep 83, Total steps 2, loss 1.2913553714752197, score -1.1, epsilon 0.37999999999999967, beta 1,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:53,111 - Ep 84, Total steps 11, loss 0.7879665493965149, score 6.800000000000001, epsilon 0.37499999999999967, beta 1,
+ 		 Counters: Path len 9 : Stayed 0 : Walls 2 : Visited 2, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 5), (4, 5), (5, 5)] 
+INFO 2022-05-27 17:32:53,442 - Ep 85, Total steps 2, loss 0.9677959680557251, score -1.1, epsilon 0.36999999999999966, beta 1,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:53,767 - Ep 86, Total steps 2, loss 0.9591797590255737, score -1.1, epsilon 0.36499999999999966, beta 1,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:54,548 - Ep 87, Total steps 6, loss 0.8388946056365967, score 1.7999999999999998, epsilon 0.35999999999999965, beta 1,
+ 		 Counters: Path len 4 : Stayed 0 : Walls 2 : Visited 2, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4)] 
+INFO 2022-05-27 17:32:54,822 - Ep 88, Total steps 2, loss 1.1487152576446533, score -1.01, epsilon 0.35499999999999965, beta 1,
+ 		 Counters: Path len 1 : Stayed 1 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:55,110 - Ep 89, Total steps 2, loss 0.8769769072532654, score -1.1, epsilon 0.34999999999999964, beta 1,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:32:55,668 - Ep 90, Total steps 4, loss 1.151763916015625, score -0.020000000000000018, epsilon 0.34499999999999964, beta 1,
+ 		 Counters: Path len 2 : Stayed 2 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2)] 
+INFO 2022-05-27 17:32:56,434 - Ep 91, Total steps 6, loss 1.1571309566497803, score 1.7999999999999998, epsilon 0.33999999999999964, beta 1,
+ 		 Counters: Path len 4 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4)] 
+INFO 2022-05-27 17:32:57,008 - Ep 92, Total steps 4, loss 1.2542691230773926, score -0.10000000000000009, epsilon 0.33499999999999963, beta 1,
+ 		 Counters: Path len 2 : Stayed 0 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2)] 
+INFO 2022-05-27 17:32:57,947 - Ep 93, Total steps 5, loss 1.3009415864944458, score 0.8899999999999999, epsilon 0.3299999999999996, beta 1,
+ 		 Counters: Path len 3 : Stayed 1 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3)] 
+INFO 2022-05-27 17:32:59,083 - Ep 94, Total steps 6, loss 1.0274100303649902, score 1.7999999999999998, epsilon 0.3249999999999996, beta 1,
+ 		 Counters: Path len 4 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4)] 
+INFO 2022-05-27 17:33:01,254 - Ep 95, Total steps 11, loss 1.5865416526794434, score 5.790000000000001, epsilon 0.3199999999999996, beta 1,
+ 		 Counters: Path len 8 : Stayed 1 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 5), (4, 5)] 
+INFO 2022-05-27 17:33:02,196 - Ep 96, Total steps 5, loss 0.9631882905960083, score 0.7999999999999998, epsilon 0.3149999999999996, beta 1,
+ 		 Counters: Path len 3 : Stayed 0 : Walls 2 : Visited 3, 
+ 		 Actor path:  [(1, 1), (2, 1), (3, 1)] 
+INFO 2022-05-27 17:33:03,620 - Ep 97, Total steps 7, loss 0.7983931303024292, score 2.89, epsilon 0.3099999999999996, beta 1,
+ 		 Counters: Path len 5 : Stayed 1 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5)] 
+INFO 2022-05-27 17:33:04,036 - Ep 98, Total steps 2, loss 1.5036720037460327, score -1.01, epsilon 0.3049999999999996, beta 1,
+ 		 Counters: Path len 1 : Stayed 1 : Walls 0 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
+INFO 2022-05-27 17:33:04,455 - Ep 99, Total steps 2, loss 1.179577350616455, score -1.1, epsilon 0.2999999999999996, beta 1,
+ 		 Counters: Path len 1 : Stayed 0 : Walls 1 : Visited 3, 
+ 		 Actor path:  [(1, 1)] 
