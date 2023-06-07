@@ -20,4 +20,5 @@ It can be seen that the loss during the first 3000 episodes is fairly low. This 
 of 0.003, the learning slows and the agent was seen to have a higher tendency of remaining in a location. However, the epsilon-greedy decent method prevented the agent from being stuck in one place for too long in the early stages of training. Decreasing the epsilon value was observed to reduce the agents reliance on the ε-greedy algorithm and choose optimal paths without getting stuck during evaluation.
 <br><br>
 It was observed that terminating the episode when the agent crossed the threshold of max visits to a location or wall during training, reduced the overall wall and visit counts during evaluation.
-4
+<br><br>
+More details about the implementation can be found in the <a href="RL_implementation.pdf">Report</a>.
