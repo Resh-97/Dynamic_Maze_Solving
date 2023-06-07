@@ -12,7 +12,7 @@ The loss and score were observed to saturate once the epsilon value reached a co
 
 ### Results:
 <br>
-<p align="center"><img src="Images/Maze.png" width ="70%" height="70%" /></p>
+<p align="center"><img src="Iimages/Maze.png" width ="70%" height="70%" /></p>
 
 The algorithm was evaluated for (5x5), (7x7), (37x37) and (200x200) mazes. The results are shown in table 2. It was observed that in smaller mazes, the agent took the optimal path and reached the goal state in less than a minute. As the size of the maze increased, due to the hard bound on the number of episodes during training, learning did not converge. This was observed in the cases of 200x200 maze. The logs of the training and the associated models are made available in the code repository. The output file submitted corresponds to the 37x37 maze. The results demonstrate the effectiveness of the proposed solution in finding the optimal path in minimum time.
 <br><br>
